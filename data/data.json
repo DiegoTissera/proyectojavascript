@@ -1,0 +1,14 @@
+[
+    {
+       "plan":"MT Centro",
+       "descripcion":"Consultas médicas sin topes, sin copagos en los Centros Médicos MET.",
+       "precio":7500,
+       "img":"https://api.fidelitytools.net/ObtenerImagen.aspx?id=201154"
+    },
+    {
+       "plan":"MT internacion",
+       "descripcion":"Honorarios Profesionales. Gastos de internación. Medicamentos. Materia descartable e insumos.",
+       "precio":2850,
+       "img":""
+    }
+ ]
