@@ -106,6 +106,6 @@ function filtrarPorNombre(array){
   if (!nombre) {
     return array;
   } else {
-    return array.filter((e) => e.name.includes(nombreC));
+    return array.filter((e) => e.plan.includes(nombreC));
   }
 }
